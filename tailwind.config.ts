@@ -19,6 +19,12 @@ export default {
 		},
 		extend: {
 			colors: {
+				medical: {
+					blue: '#2563EB',
+					green: '#10B981',
+					red: '#DC2626',
+					gray: '#6B7280'
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
